@@ -1,8 +1,16 @@
 # FRAPPUCCINO
 
-This repository contains the GT1 enzyme-substrate reactivity workflow in two complementary forms:
+Machine learning workflow for **GT1 glycosyltransferase–acceptor reactivity prediction**.
 
-- a full Colab notebook pipeline in `notebooks/`, intended for interactive end-to-end execution; and
-- a more modular, GitHub-oriented repository organization for managing supporting code, data assets, and future script-based development.
+This repository contains the notebook-first pipeline used for dataset harmonization, feature generation, novelty-aware benchmarking, and model evaluation across baseline and **VAE-based** models.
 
-The notebook currently serves as the primary executable reference for the complete workflow. The repository structure is included to improve version control, maintainability, and reproducibility, while supporting gradual migration toward a cleaner script-based implementation.
+## Repository structure
+
+- `notebooks/` — end-to-end Colab workflow
+- `data/` — input data and dataset documentation
+- helper modules — reusable code used by the notebook
+
+## Getting started
+
+Open `notebooks/` and run the main notebook.  
+The notebook is the current reference implementation of the project workflow.
