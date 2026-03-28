@@ -10,7 +10,7 @@ In the thesis benchmark, pooled-feature XGBoost performed best in most settings,
 
 **FRAPPUCCINO** stands for:
 
-**F**amily-1 glycosyltransferase  
+**F**amily 1 glycosyltransferase (GT1)  
 **R**eactivity and  
 **A**cceptor-**P**air  
 **P**rediction with  
