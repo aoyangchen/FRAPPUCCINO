@@ -1,6 +1,6 @@
 # FRAPPUCCINO
 
-Machine learning workflow for **GT1 glycosyltransferase–acceptor reactivity prediction with variational autoencoders and pre-trained protein–small-molecule representations**.
+Machine learning workflow for **GT1 glycosyltransferase–acceptor reactivity prediction** with variational autoencoders and pre-trained protein–small-molecule representations.
 
 This repository contains the notebook-first pipeline used for dataset harmonization, feature generation, novelty-aware benchmarking, and model evaluation across baseline, attention-based and **VAE-based** models.
 
