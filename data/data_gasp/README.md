@@ -70,6 +70,3 @@ This folder contains scripts and outputs for enriching the GASP `reactions.tsv` 
 - **Performance**: For large CID sets, consider caching results or parallelizing queries.
 
 ---
-
-*Generated on \$(date)*
-
