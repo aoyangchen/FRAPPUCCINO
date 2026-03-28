@@ -1,6 +1,6 @@
 # FRAPPUCCINO
 
-Machine-learning benchmark and workflow for GT1 glycosyltransferase–acceptor reactivity prediction under novelty-controlled evaluation.
+Machine-learning benchmark and workflow for family 1 glycosyltransferase (GT1)–acceptor reactivity prediction under novelty-controlled evaluation.
 
 This repository accompanies the MSc thesis *Predicting Glycosyltransferase Acceptor Specificity with Variational Autoencoders and Pretrained Protein–Small-Molecule Representations*. It contains a notebook-first pipeline for dataset harmonization, feature generation, novelty-controlled benchmarking, and model evaluation across pooled-feature baseline models, token-level cross-attention, and VAE-based fusion models.
 
